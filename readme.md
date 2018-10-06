@@ -4,7 +4,7 @@
 
 ### Setup
 
-![Setup](https://raw.github.com/jglim/PurpleVisualizer/master/preview.gif)
+![Setup](https://raw.github.com/jglim/PurpleVisualizer/master/setup.gif)
 
 Drag the bigass button in the [setup page](https://ecg.sn.sg/purple/bookmarklet.html) to your bookmarks bar
 
