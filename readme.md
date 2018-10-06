@@ -23,6 +23,7 @@ _This isn't official or endorsed by the folks at oshpark.com though I would be g
 ### Known Issues
 
 - Controls appear to be broken right now 
+- (New!) 4-layer boards don't work 
 
 _Made over the weekends "hackathon-grade" code quality - this WILL be buggy_
 
